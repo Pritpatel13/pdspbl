@@ -5,7 +5,7 @@ The Student Management System Using Data Encoding with Pandas is a Python-based 
 This project uses Pandas to organize student records, handle categorical attributes such as gender, department, and performance category, and convert these values into a suitable numerical representation using encoding techniques such as Label Encoding and One-Hot Encoding.
 
 Objectives
-To store and manage student information in a structured dataset.
+*To store and manage student information in a structured dataset.
 To understand the concept of data encoding in data science.
 To convert categorical student data into numerical values using Pandas.
 To apply Label Encoding and One-Hot Encoding.
